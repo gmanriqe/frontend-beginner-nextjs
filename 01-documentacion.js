@@ -41,3 +41,10 @@
 /*
     - https://nextjs.org/docs/getting-started#automatic-setup
 */
+
+// Static generation vs Server-side rendering
+/*
+    - Next utilizara por defecto el static generation
+    - La diferencia es donde se construye basado en la solicitud
+    - Como sabe next si utilizaras SG o SSR? Mediante funciones
+*/
